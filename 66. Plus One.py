@@ -7,3 +7,4 @@ class Solution:
         res = list(str(i))
         print(res)
         return map(int, res)
+ 

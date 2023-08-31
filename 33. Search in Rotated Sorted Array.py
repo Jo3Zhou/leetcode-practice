@@ -3,3 +3,4 @@ class Solution:
         if target in nums:
             return nums.index(target)
         return -1
+ 

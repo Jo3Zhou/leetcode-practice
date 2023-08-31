@@ -7,4 +7,4 @@ class Solution:
             if target <= nums[i]:
                 return i
 
-        return i+1
+        return i+1 
